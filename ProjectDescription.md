@@ -1,3 +1,6 @@
+<h1>Project Description</h1>
+
+<h2>Summary</h2>
 This project adds a searchable, filterable database of college basketball program staff to the Full 
 Court Analytics platform. 
 
@@ -13,3 +16,7 @@ organized and proactive in their recruiting process.
 
 Over time, this will become a living recruiting database — continuously updated with verified 
 staff contacts, school information, and a player’s personal outreach history.
+
+<h2>High-Level Features</h2>
+<h2>Non-Functional Requirements</h2>
+<h2>Constraints</h2>
