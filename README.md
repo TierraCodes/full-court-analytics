@@ -12,7 +12,10 @@
 <h2>Client Partner Information</h2>
 <h3>Company:</h3>
 <h3>People:</h3>
-
+  <li>Bryce Woody</li>
+  <ul>
+    <li>Some info about him. He's been on this project for a while.</li>
+  </ul>
 <h2>Links</h2>
 
 <h2>Code Repositories</h2>
