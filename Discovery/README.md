@@ -10,7 +10,7 @@
 <li>Raw minutes of meeting</li>
 <li>How we met with client</li>
 <li>Who was meeting minutes recorder</li>
-<h3>Discovery Meeting Notes - Google Doc pdf</h3>
+<h3>Discovery Meeting Notes: Google Doc pdf</h3>
 <li>Structured notes taken by team members during live meeting along with website screenshots overviewed</li>
 <h3>Images Folder: Screenshots as PNGs discussed</h3>
 <li>ActionEvent json</li>
