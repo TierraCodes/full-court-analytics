@@ -22,7 +22,7 @@
 
 <h2>Topics Discussed</h2>
 <li>
-  [Discovery Meeting](Discovery/README.md)
+ Discovery Meeting Notes: https://github.com/TierraCodes/full-court-analytics/blob/main/Discovery/Discovery%20Meeting%20Notes_Questions%20-%20Google%20Docs.pdf
 </li>
 
 <h2>Things Clarified</h2>
