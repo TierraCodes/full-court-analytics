@@ -1,5 +1,11 @@
 <h1>Discovery</h1>
-<h2>Files in Disocvery Folder</h2>
+<h2>Meeting Participants</h2>
+<li>Owen Johnson</li>
+<li>Emmaline Mercer</li>
+<li>Tierra Williams</li>
+<li>Priscilla Zavala</li>
+<li>Bryce Woody (Client) </li>
+<h2>Files in Discovery Folder</h2>
 <h3>Minutes.md</h3>
 <li>Raw minutes of meeting</li>
 <li>How we met with client</li>
@@ -11,10 +17,4 @@
 <li>Possessions json</li>
 <li>SinglePossessions json</li>
 <li>Analytic screenshots from website</li>
-<h2>Meeting Participants</h2>
-<li>Owen Johnson</li>
-<li>Emmaline Mercer</li>
-<li>Tierra Williams</li>
-<li>Priscilla Zavala</li>
-<li>Bryce Woody (Client) </li>
 
