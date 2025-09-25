@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+out/
+.next/ # If using Next.js
+.cache/
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and OS specific files
+**/.DS_Store
+Discovery/.DS_Store
+.vscode/ # VS Code specific, if you don't want to share settings
+*.sublime-project # Sublime Text specific
+*.sublime-workspace # Sublime Text specific
+.idea/ # IntelliJ IDEA specific
+.project
+.classpath
+.settings/
+
+# Test coverage
+coverage/
+
+# Misc
+temp/
+tmp/
