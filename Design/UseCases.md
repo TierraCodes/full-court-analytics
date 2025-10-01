@@ -43,7 +43,7 @@
 
 ---
 
-### UC3 – Log Outreach with a Coach (Basic Note Entry) (BR2)
+### UC3 – Log Outreach with a Coach (BR1)
 **Explanation:** Athletes need to record communications with coaches to track their recruiting journey and prevent missed opportunities. This supports BR2 (relationship & outreach management).  
 **Actors:** Athlete, System  
 **Flow:**  
@@ -55,16 +55,11 @@
 
 ---
 
-# Use Cases – Deferred to Future Iterations
+### UC4 - As an athlete I want to view analytics to view strengths and weaknesses (BR2)
+**Explanation:** 
+**Actors:** Athlete
 
-- **UC4 – Schedule Follow-Up Reminder (BR2)**  
-  Will be implemented once notification service is integrated.  
+# Use Cases – Deferred to Future Iterations
 
 - **UC5 – View Outreach Analytics Dashboard (BR2)**  
   Will be implemented once outreach data and reporting features are in place.  
-
-- **UC6 – Extended School & Staff Data (BR1)**  
-  Displaying stats, majors, academic services, and additional metadata about schools.  
-
-- **UC7 – Contact Coach Directly (BR2)**  
-  Contact buttons and preloaded templates for outreach.  
