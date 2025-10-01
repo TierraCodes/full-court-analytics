@@ -25,18 +25,18 @@
 
 ```mermaid
 graph TD
-    A[User's Browser / Mobile App]
+    A[User's Browser]
     B[Next.js/React Frontend]
     C{Firebase Authentication}
-    D[Backend API/Next.js API Routes]
+    D[Next.js API Routes]
     E[(Firestore Database)]
-    F[(Recruiter Firestore Database)]
+    G[Backend/Firebase functions/Cloud]
 
     A --> B 
     B -- Initial Load/Routing --> C
     C --> B
     B -- Calls API (Read/Write) --> D
-    D -- Gets External Data from Recruiter Database --> F
+    B --> G
     D --> E
     B --> A
 
