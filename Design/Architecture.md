@@ -9,15 +9,18 @@
 * Firebase Authentication
   * The addition of an authentication system allows for secure access of the application by the users.
   * It is worthy of a module as it consistently interacts with the system to authenticate users.
-* Backend API/Nextjs API Routes
+* Nextjs API Routes
   * An API route allows clients to call APIs without needing to store security information client side.
   * This deserves a module as it will need to be accessed as a middleman to interact with the database.
+* Backend
+  * Our backend will serve as the middleman between the frontend and the API calls.
+  * It will allow us to prepare data and create calls to the API to connect to the Db.
+* Firebase functions/Cloud Run
+  * Different types of API routes to interact with the Db in multiple ways.
+  * This is important to have multiple different ways of interacting with the Db, rather than only having a URL type API.
 * Firestore Db
   * The entire structure of the project revolves around the retrieval of data from the Firestore Database.
   * It deserves a module as the system would not work without any data to pull from.
-* External Recruiter Firestore Db
-  * This changes the architecture as we will now need to access an external API endpoint.
-  * This database will be accessed frequently to retrieve misc information about schools and staff members.
 
 ---
 
@@ -32,7 +35,7 @@ graph TD
     E[(Firestore Database)]
     F[Firebase functions]
     G[Backend Services]
-    H[Google Cloup Run]
+    H[Google Cloud Run]
     
 
     A --> B 
