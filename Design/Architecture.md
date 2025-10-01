@@ -30,14 +30,21 @@ graph TD
     C{Firebase Authentication}
     D[Next.js API Routes]
     E[(Firestore Database)]
-    G[Backend/Firebase functions/Cloud]
+    F[Firebase functions]
+    G[Backend Services]
+    H[Google Cloup Run]
+    
 
     A --> B 
     B -- Initial Load/Routing --> C
     C --> B
-    B -- Calls API (Read/Write) --> D
-    B --> G
-    D --> E
+    B <-- Calls API (Read/Write) --> D
+    B <-- Call API/Return data --> G
+    G <--> H
+    H <-- Connect to Db --> E
+    G <--> F
+    F <-- Connect to Db --> E
+    D <--> E
     B --> A
 
 
