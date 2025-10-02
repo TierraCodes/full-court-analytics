@@ -41,25 +41,15 @@
 
 ---
 
-### UC3 – As an athlete, I want to view specific play-by-play moves in previous games (BR2)
-**Explanation:** A player should be able to view analytical stats for specific plays they made in a game. This supporst BR2 (Analytical Aspect)  
-
-**Actors:** Athlete
-
-**Flow:**  
-1. Athlete can view the player profile page, and select the tabs related to specific plays
-2. These tabs include primarily the Shot Charts and Action Types tab.
-3. Knowing this specific play data will allow an athlete to view where they can improve performance on particular skills or moves.
-
----
-
-### UC4 - As an athlete, I want to view general analytics to see my strengths and weaknesses (BR2)
+### UC3 - As an athlete, I want to view general analytics to see my strengths and weaknesses (BR2)
 **Explanation:** The primary goal of the analytics is to provide an athlete with a visual representation of what their strengths and weaknesses are, in statistical or graphical format, based on their previous performance in games. This supports BR2 (Analytical Aspect)
 
-**Actors:** Athlete  
+**Actors:** Athlete 
 
 **Flow:**  
 1. Athlete can view their player profile.
 2. There are various tabs that they can view different statistics in: Overview, Game Log, Shot Types, Action Types, etc.
 3. Each tab will provide either graphs, percentages, or data that applies to an athlete's personal performance.
+Athlete can view the player profile page, and select the tabs related to specific plays
+4. Knowing this specific play data will allow an athlete to view where they can improve performance on particular skills or moves.
 ---
