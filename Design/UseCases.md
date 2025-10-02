@@ -9,19 +9,15 @@
 - **Parent/Guardian**  
   Support athletes in research, help manage notes and follow-ups, and provide consent if the athlete is underage.
 
-- **System (Database/Search Engine)**  
-  Provides search and filter functionality and returns results.
-
-- **Email/Notification Service**  
-  Sends reminders, updates, and outreach confirmations (future iterations).
-
 ---
 
 # Use Cases – First Iteration
 
-### UC1 – Search & Filter Schools (BR1)
-**Explanation:** Athletes need to find schools quickly using accurate, verified data. This supports the business requirement of centralizing recruiting research (BR1).  
-**Actors:** Athlete, System  
+### UC1 – As an athlete, or advisor, I need to be able to view schools quickly within a filterable dashboard (BR1)
+**Explanation:** Athletes and Advisors need to find schools quickly using accurate, verified data. This aligns with BR1 (Recruiting and Outreach Research). 
+
+**Actors:** Athlete, Recruiting Advisors/Trainers 
+
 **Flow:**  
 1. Athlete enters a keyword (school name, location, or conference).  
 2. System shows typeahead suggestions.  
@@ -31,9 +27,11 @@
 
 ---
 
-### UC2 – View School Profile (BR1)
-**Explanation:** Athletes need detailed information about schools in one place to evaluate recruiting opportunities. This aligns with BR1.  
-**Actors:** Athlete, System  
+### UC2 – As an athlete, or parent, I need to be able to view information on colleges and their data (BR1)
+**Explanation:** Athletes need detailed information about schools in one place to evaluate recruiting opportunities. This aligns with BR1 (Recruiting and Outreach Research). 
+
+**Actors:** Athlete, Parents/Guardian
+
 **Flow:**  
 1. Athlete selects a school from search results.  
 2. System displays the school profile with:  
@@ -43,23 +41,25 @@
 
 ---
 
-### UC3 – Log Outreach with a Coach (BR1)
-**Explanation:** Athletes need to record communications with coaches to track their recruiting journey and prevent missed opportunities. This supports BR2 (relationship & outreach management).  
-**Actors:** Athlete, System  
+### UC3 – As an athlete, I want to view specific play-by-play moves in previous games (BR2)
+**Explanation:** A player should be able to view analytical stats for specific plays they made in a game. This supporst BR2 (Analytical Aspect)  
+
+**Actors:** Athlete
+
 **Flow:**  
-1. Athlete opens a school or coach profile.  
-2. Athlete clicks “Log outreach.”  
-3. Athlete enters a text note describing the communication.  
-4. System saves the outreach note with a timestamp.  
-5. Note is displayed in the communication history for that school/coach.  
+1. Athlete can view the player profile page, and select the tabs related to specific plays
+2. These tabs include primarily the Shot Charts and Action Types tab.
+3. Knowing this specific play data will allow an athlete to view where they can improve performance on particular skills or moves.
 
 ---
 
-### UC4 - As an athlete I want to view analytics to view strengths and weaknesses (BR2)
-**Explanation:** 
-**Actors:** Athlete
+### UC4 - As an athlete, I want to view general analytics to see my strengths and weaknesses (BR2)
+**Explanation:** The primary goal of the analytics is to provide an athlete with a visual representation of what their strengths and weaknesses are, in statistical or graphical format, based on their previous performance in games. This supports BR2 (Analytical Aspect)
 
-# Use Cases – Deferred to Future Iterations
+**Actors:** Athlete  
 
-- **UC5 – View Outreach Analytics Dashboard (BR2)**  
-  Will be implemented once outreach data and reporting features are in place.  
+**Flow:**  
+1. Athlete can view their player profile.
+2. There are various tabs that they can view different statistics in: Overview, Game Log, Shot Types, Action Types, etc.
+3. Each tab will provide either graphs, percentages, or data that applies to an athlete's personal performance.
+---
