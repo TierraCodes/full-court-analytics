@@ -2,11 +2,11 @@
 
 ## Selected High-Priority Functional Requirements
 
-The following requirements have been chosen from the Requirements document as the **highest-priority functional features** for Iteration 1. These directly support the updated Business Requirements (BR1 & BR2).  
+The following requirements have been chosen from the Requirements document as the **highest-priority functional features** for Iteration 1. These directly support the Business Requirements (BR1 & BR2).  
 
 ### UC1 – Search & Filter Schools (Supports BR1)
 - **FR1 (High):** The system shall provide a search bar that accepts school name, location, or conference.  
-- **FR2 (Medium):** The system shall display search suggestions as the user types (typeahead).  
+- **FR2 (Medium):** The system shall display search suggestions as the user types.  
 - **FR3 (High):** The system shall provide filters to narrow down search results by division, conference, state, public/private, enrollment size, role type, date last updated, and user-generated tags.  
 
 ### UC2 – View School Profile (Supports BR1)
