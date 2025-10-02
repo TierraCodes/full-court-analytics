@@ -2,17 +2,22 @@
 
 ## Selected High-Priority Functional Requirements
 
-The following requirements have been chosen from the Requirements document as the **highest-priority functional features** for Iteration 1. These will provide the minimum functional loop (search → view school info → see staff and stats) and will demonstrate a working system to the client.
+The following requirements have been chosen from the Requirements document as the **highest-priority functional features** for Iteration 1. These directly support the updated Business Requirements (BR1 & BR2).  
 
-### UC1 – Search & Filter Schools
+### UC1 – Search & Filter Schools (Supports BR1)
 - **FR1 (High):** The system shall provide a search bar that accepts school name, location, or conference.  
 - **FR2 (Medium):** The system shall display search suggestions as the user types (typeahead).  
 - **FR3 (High):** The system shall provide filters to narrow down search results by division, conference, state, public/private, enrollment size, role type, date last updated, and user-generated tags.  
 
-### UC2 – View School Profile
+### UC2 – View School Profile (Supports BR1)
 - **FR6 (High):** The system shall display basic school information, including school name, location, division level, and conference.  
 - **FR7 (High):** The system shall show the coaching staff with names, titles, photos, and contact information.  
 - **FR10 (Medium):** The system shall display statistics in both tabular and graphical formats.  
+
+### UC3 – View Player Analytics (Supports BR2)
+- **FR13 (High):** The system shall allow users to view shot types from game data.  
+- **FR14 (High):** The system shall allow users to view action types from game data.  
+- **FR15 (High):** The system shall provide distinct tabs showcasing specific player stats.  
 
 ---
 
@@ -24,6 +29,10 @@ The following requirements have been chosen from the Requirements document as th
    - Basic school info (name, location, division, conference).  
    - Coaching staff details (names, titles, photos, contact info).  
    - Basic statistics in table/graph format.  
+5. Athlete navigates to their **Player Analytics tab**, where they can view:  
+   - Shot types from game data.  
+   - Action types from game data.  
+   - Tabs showing player-specific statistics.  
 
 ---
 
@@ -37,15 +46,13 @@ Each requirement will be created as a **card in the project board** with columns
 - [ ] FR6 – Display school information  
 - [ ] FR7 – Display coaching staff  
 - [ ] FR10 – Display statistics  
+- [ ] FR13 – Display shot types  
+- [ ] FR14 – Display action types  
+- [ ] FR15 – Player stats tabs  
 
 ---
 
 ## Justification
 
 - These features represent the **core business requirements**:  
-  - **BR1** – Centralized school search and evaluation.  
-  - **BR2** – Foundation for outreach and relationship management.  
-- They are **functional**: the system will be able to search, display schools, and present staff + stats in a usable interface.  
-- They can be achieved with the current **Next.js frontend + Firebase backend architecture**, making them realistic for the first iteration.  
-
----
+  - **BR1** – Centralized recruiting: athletes can search schools, view staff, and analyze stats.
