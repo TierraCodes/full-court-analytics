@@ -1,4 +1,4 @@
-<h1>Team Meeting on tbd/tbd/2025</h1>
+<h1>Client Meeting on tbd/tbd/2025</h1>
 
 <h2>Meeting Start Time</h2>
 <h2>Meeting End Time</h2>
