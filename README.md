@@ -10,21 +10,21 @@ The goal is to centralize recruiting research and outreach in one place so playe
 Over time, this will become a living recruiting database — continuously updated with verified staff contacts, school information, and a player’s personal outreach history
 
 ## Team Members
->Lizzie Burton\
->Owen Johnson\
->Emmaline Mercer\
->Tierra Williams\
->Priscilla Zavala
+- Lizzie Burton
+- Owen Johnson
+- Emmaline Mercer
+- Tierra Williams
+- Priscilla Zavala
   
 ## Client Partner Information
 ### Company:
 Full Court Analytics
 ### People:
-> Bryce Woody\
-> Josh Kelly
+- Bryce Woody
+- Josh Kelly
 
 ## Links
-
+- https://github.com/TierraCodes/full-court-analytics/tree/main/Auxiliary%20Files#auxiliary-files
 
 ## Code Repositories
-<li>https://github.com/eewmercer/full-court-analytics-code</li>
+- https://github.com/eewmercer/full-court-analytics-code
