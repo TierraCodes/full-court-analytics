@@ -36,8 +36,13 @@
 1. Run project ->
     - `npm run dev` in terminal
     - click the localhost link and it will route you to the webpage in your browser
-    - login with test credentials:
-        - email - dev@demo.com
-        - password - password
 
+## Testing:
+1. login with test credentials:
+    - email - dev@demo.com
+    - password - password
+2. If login works, then you are in!
+    - ![alt text](../Discovery/images/login_start.png)
+    - ![alt text](../Discovery/images/login_creds.png)
+    - ![alt text](../Discovery/images/welcome.png)
 
