@@ -25,6 +25,7 @@ Full Court Analytics
 
 ## Links
 - https://github.com/TierraCodes/full-court-analytics/tree/main/Auxiliary%20Files#auxiliary-files
+- https://github.com/users/eewmercer/projects/2/views/6
 
 ## Code Repositories
 - https://github.com/eewmercer/full-court-analytics-code
