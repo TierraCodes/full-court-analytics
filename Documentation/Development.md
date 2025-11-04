@@ -1,4 +1,20 @@
 # Replicate the Development Environment:
+## Replicating via Docker ->
+### Install Prerequisites
+- Make sure Docker is installed on your machine
+    - https://www.docker.com/products/docker-desktop
+- Create an account and set up the desktop application
+### Clone Repos
+- Make a clone of our repository:
+    - https://github.com/eewmercer/full-court-analytics-code
+### Get Env Variables
+- If granted permission, you will be given a secret file called .env.local, which is crucial to run our project
+- Put the envfile in the root of the project.
+### Run 
+- Run the following file while in the root folder of the project:
+    - `docker compose up`
+    - If Docker proposes to share folder(s), allow
+
 ## Background ->
 1.  Tech used ->
     - NextJS React
