@@ -21,5 +21,13 @@
 <li>Interface PR assignment</li>
 <li>Specific task distributions</li>
 <h2>Progress made</h2>
-<li>Continuing work on individaul feature branches for updating secure password, unit tests, and filters</li>
-<li>Updates made to dashboard filters</li>
+<li>Continuing work on individaul feature branches</li>
+<ul>
+  <li>Priscilla: updating signup page for styling and creating a secure password</li>
+  <li>Tierra: adding unit tests to code</li>
+  <li>Lizzie: updating styling pages to reflect current full court analytics website</li>
+  <li>Emmaline: updating current dashboard filters for unclickable actions</li>
+  <li>Owen: worked on interface PR, code cleanup and logging, renaming componenets</li>
+</ul>
+<li>List of things to discuss with Bryce during client meeting later today, preparing requirements to be completed within Iteration 2</li>
+
