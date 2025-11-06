@@ -5,8 +5,21 @@
 <h2>Meeting End Time</h2>
 <li>10:45pm</li>
 <h2>Location/Medium</h2>
+<li>Zoom</li>
 <h2>Present</h2>
+<li>Lizzie Burton </li>
+<li>Emmaline Mercer</li>
+<li>Tierra Williams</li>
+<li>Priscilla Zavala</li>
+<li>Owen Johnson</li>
 <h2>Minute Recorder</h2>
+<li>Priscilla Zavala</li>
 <h2>Topics Discussed</h2>
+<li>Continuing tasks to refine Iteration 1, preparing for Iteration 2 tasks</li>
+<li>Questions/things to dicuss with Bryce during client meeting later today</li>
 <h2>Things Clarified</h2>
+<li>Interface PR assignment</li>
+<li>Specific task distributions</li>
 <h2>Progress made</h2>
+<li>Continuing work on individaul feature branches for updating secure password, unit tests, and filters</li>
+<li>Updates made to dashboard filters</li>
