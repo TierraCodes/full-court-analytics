@@ -1,0 +1,37 @@
+<h1>Team Meeting on 11/11/25</h1>
+
+<h2>Meeting Start Time</h2>
+<li>4:00pm</li>
+
+<h2>Meeting End Time</h2>
+<li>5:30pm</li>
+
+<h2>Location/Medium</h2>
+<li>Braken Library 404</li>
+
+<h2>Present</h2>
+<li>Tierra Williams</li>
+<li>Priscilla Zavala</li>
+<li>Emmaline Mercer</li>
+<li>Owen Johnson</li>
+<li>Lizzie Burton</li>
+
+<h2>Minute Recorder</h2>
+<li>Priscilla Zavala</li>
+
+<h2>Topics Discussed</h2>
+  <li>Touch base with everyone's progress on making final changes to iteration 1 code</li>
+  <li>Planning tasks, responsibilities for iteration 2</li>
+  <li>Tailwind color</li>
+  <li>FirebDB changes to be made in iteration 2</li>
+
+<h2>Things Clarified</h2>
+<li>Tailwind code for specific colors</li>
+<li>Iteration 2 high priority requirements stated by Bryce, client</li>
+
+<h2>Tasks Distributed</h2>
+<li>Emmaline: Adding pagination with dashboard page </li>
+<li>Tierra: Adding unit tests</li>
+<li>Priscilla: Updating user profile page to allow for dynamic edititing, update firestore DB </li>
+<li>Owen: Redesigning UI and adding notes to coach and school profile pages</li>
+<li>Lizzie: Adding unit tests</li>
