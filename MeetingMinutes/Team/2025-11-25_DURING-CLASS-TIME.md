@@ -24,7 +24,7 @@
 
 <h2>Progress Made</h2>
 
-1. A good piece of the documentation was completed incuding the User.md. Updates were made as well to the Development.md.
+1. A good piece of the documentation was completed incuding the User.md. Updates were made to the Development.md.
 
 2. The Presentation slideshow was started, and the features for this iteration were explained in various slides.
 
