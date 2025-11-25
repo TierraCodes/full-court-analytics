@@ -24,12 +24,12 @@
 
 <h2>Progress Made</h2>
 
-1. About half of the documentation completed
+1. A good piece of the documentation was completed incuding the User.md. Updates were made as well to the Development.md.
 
-2. Presentation started
+2. The Presentation slideshow was started, and the features for this iteration were explained in various slides.
 
-3. Last PR for styling changes/code changes
+3. The last PR was merged for the styling and code changes that were covered in the previous team meeting.
 
-4. Unit testing discussed
+4. Unit testing and the requirements for it were discussed.
 
-5. Meeting minutes/notes completed
+5. The meeting minutes and notes for the previous meeting were completed.
