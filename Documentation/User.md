@@ -20,7 +20,7 @@
 <img width="1439" height="784" alt="Screenshot 2025-11-25 at 10 07 43 AM" src="https://github.com/user-attachments/assets/5b47c897-ce1b-47b9-ae70-4d023717eaa1" />
 
 ## User profile where user can edit their personal info, add personal statement bio, and keep track of favorite coaches, schools, and emails sent out
-<img width="1434" height="785" alt="Screenshot 2025-11-25 at 10 41 43 AM" src="https://github.com/user-attachments/assets/88c096f5-505d-407b-97b5-6ff1ded6532e" />
+<img width="1440" height="788" alt="Screenshot 2025-11-25 at 10 45 01 AM" src="https://github.com/user-attachments/assets/499456bd-2a2b-4927-840c-f6492896a772" />
 <img width="1428" height="784" alt="Screenshot 2025-11-25 at 10 42 07 AM" src="https://github.com/user-attachments/assets/eb8df89b-bf8d-4b90-b3b2-75e8c9d4816b" />
 
 
