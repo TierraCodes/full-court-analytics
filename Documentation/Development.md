@@ -56,9 +56,10 @@
 ## Testing:
 1. login with test credentials:
     - email - dev@demo.com
-    - password - password
+    - password - Password12!
 2. If login works, then you are in!
-    - ![alt text](../Discovery/images/login_start.png)
-    - ![alt text](../Discovery/images/login_creds.png)
-    - ![alt text](../Discovery/images/welcome.png)
+    - <img width="734" height="998" alt="image" src="https://github.com/user-attachments/assets/13cccef3-af16-44bf-8eff-19ac14b722bb" />
+    - <img width="558" height="750" alt="image" src="https://github.com/user-attachments/assets/c5ca41bf-eed9-4f20-b1a1-a78bbe8349a9" />
+    - <img width="2872" height="1548" alt="image" src="https://github.com/user-attachments/assets/65857748-4331-4162-9328-bf847254fb7a" />
+
 
