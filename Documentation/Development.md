@@ -40,11 +40,11 @@
     - start in production mode
     - add dummy data in this same format:
         - coach (collection):
-            - ![alt text](images/coach.png)
+            - <img width="2218" height="1060" alt="image" src="https://github.com/user-attachments/assets/a5f03f63-e244-404c-86db-ecfe4d68dd43" />
         - school (collection):
-            - ![alt text](images/school.png)
+            - <img width="2296" height="1104" alt="image" src="https://github.com/user-attachments/assets/fd30ad0d-0b63-452f-9f7b-cfe74fc81f53" />
         - users (collection):
-            - ![alt text](images/users.png)
+            - <img width="2338" height="1122" alt="image" src="https://github.com/user-attachments/assets/7f36d627-8f14-4e7b-a99d-e616e66be9c6" />
     - create a `.env.local` file in your local repository with the following variables:
         - ![alt text](images/env.png)
 
