@@ -5,24 +5,18 @@
   * FR1 (High): The system shall provide a search bar that accepts school name, location, or conference.
   * FR2 (Medium): The system shall display search suggestions as the user types (typeahead).
   * FR3 (High): The system shall provide filters to narrow down search results by division, conference, state, public/private, enrollment size, role type, date last updated, and user-generated tags.
-  * FR4 (Medium): The system shall allow users to generate their own custom tags to organize the schools by.
   * FR5 (Low): The system shall provide recommended schools based on the user's location.
 
 * UC2:
   * FR6 (High): The system shall display basic school information, including school name, location, division level, and conference.
   * FR7 (High): The system shall show the coaching staff with names, titles, photos, and contact information.
   * FR8 (Low): The system shall show available majors and academic programs at a school.
-  * FR9 (Low): The system shall display academic support services available at a school.
-  * FR10 (Medium): The system shall display statistics in both tabular and graphical formats.
 
 * UC3:
-  * FR11 (Medium): The system shall allow users to select certain games to view individual games.
-  * FR12 (Medium): The system shall allow users to view analytics for individual games.
-  * FR13 (High): The system shall allow users to view shot types from game data.
-  * FR14 (High): The system shall allow users to view action types from game data.
-  * FR15 (High): The system shall provide distinct tabs showcasing specific player stats.
-  * FR16 (High): The system shall provide analytics overview for individual players.
-
+  * FR9 (Medium): The system shall allow users to generate their own custom tags to organize the schools by.
+  * FR10 (Medium): The system shall provide filters using the user's custom tags and their favorited schools.
+  * FR11 (High): The system shall allow the users to send emails to coaches.
+  * FR12 (High): The system shall provide feedback that a coach has responded to a user's email, and the email chain will be available in the user's profile page.
 
 ## Non-Functional Requirements
 * UC1:
