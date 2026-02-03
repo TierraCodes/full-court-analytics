@@ -8,10 +8,11 @@
 - Make a clone of our repository:
     - https://github.com/eewmercer/full-court-analytics-code
 ### Get Env Variables
-- If granted permission, you will be given a secret file called .env.local, which is crucial to run our project
+- If granted permission, you will be given a secret file called .env.local by a member of this project, which is crucial to run our project
 - Put the envfile in the root of the project.
 ### Run 
-- Run the following file while in the root folder of the project:
+- Open the project in your favorite IDE: https://code.visualstudio.com/download
+- Run the following file while in the root folder of the project :
     - `docker compose up`
     - If Docker proposes to share folder(s), allow
 
