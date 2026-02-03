@@ -6,8 +6,7 @@
 ## Fill out the form, make sure to fill out every box
 <img width="1401" height="760" alt="Screenshot 2025-11-25 at 9 58 28 AM" src="https://github.com/user-attachments/assets/9023ccbe-ebd8-4182-b92f-6081d5f09ec2" />
 
-## Now you have access to our site! The dashboard showcases every college we have available with custom profile pages for the schools and coaches within them.
-<img width="1431" height="781" alt="Screenshot 2025-11-25 at 10 00 43 AM" src="https://github.com/user-attachments/assets/99575129-5f34-4735-975d-1357640cb64b" />
+## Now you have access to our site! The dashboard showcases every college we have available, with custom profile pages for the schools and coaches within them.
 
 ## Schools are displayed in a table with filter and search functionalities.
 <img width="1435" height="777" alt="Screenshot 2025-11-25 at 10 38 30 AM" src="https://github.com/user-attachments/assets/50a80dd5-77c2-4823-9bb8-0ea95a794aec" />
@@ -19,8 +18,13 @@
 ## School profiles contain information about the college and a table listing each coach available to contact
 <img width="1439" height="784" alt="Screenshot 2025-11-25 at 10 07 43 AM" src="https://github.com/user-attachments/assets/5b47c897-ce1b-47b9-ae70-4d023717eaa1" />
 
-## User profile where user can edit their personal info, add personal statement bio, and keep track of favorite coaches, schools, and emails sent out
+## User profile where the user can edit their personal info, add a personal statement bio, and keep track of favorite coaches, schools, and emails sent out
 <img width="1440" height="788" alt="Screenshot 2025-11-25 at 10 45 01 AM" src="https://github.com/user-attachments/assets/499456bd-2a2b-4927-840c-f6492896a772" />
-<img width="1428" height="784" alt="Screenshot 2025-11-25 at 10 42 07 AM" src="https://github.com/user-attachments/assets/eb8df89b-bf8d-4b90-b3b2-75e8c9d4816b" />
+<img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/fa0fcdbc-91c7-4e4f-975d-68a8d3783835" />
+
+## User profile also allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
+<img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/779c9414-95e4-453a-8f01-93a390484314" />
+<img width="1910" height="936" alt="image" src="https://github.com/user-attachments/assets/e7995832-e1b8-4371-ada0-273875f8cb21" />
+
 
 
