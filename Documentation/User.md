@@ -27,7 +27,7 @@
 <img width="1910" height="936" alt="image" src="https://github.com/user-attachments/assets/e7995832-e1b8-4371-ada0-273875f8cb21" />
 
 ## User profile also allows users to view their saved drafts and which coaches those drafts belong too. You can create, save, and/or use a saved draft while composing an email to a coach in the Coach Profile.
-<img width="1440" height="584" alt="Screenshot 2026-02-03 at 10 15 24 PM" src="https://github.com/user-attachments/assets/beeef8ff-cdf5-483b-86ce-c42b535d0e5f" />
+<img width="1440" height="588" alt="Screenshot 2026-02-03 at 10 20 15 PM" src="https://github.com/user-attachments/assets/b8f7efb1-c9e3-4f8b-b1ca-6af056349799" />
 <img width="694" height="548" alt="Screenshot 2026-02-03 at 10 15 40 PM" src="https://github.com/user-attachments/assets/a5efb29d-b381-488d-b32e-e6c30c84a244" />
 <img width="702" height="375" alt="Screenshot 2026-02-03 at 10 15 51 PM" src="https://github.com/user-attachments/assets/a8b2118c-7177-4b2a-9521-ca606883dd27" />
 
