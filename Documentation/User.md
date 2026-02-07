@@ -33,9 +33,9 @@
 ## School profiles contain information about the college and a table listing each coach available to contact
 <img width="1439" height="784" alt="Screenshot 2025-11-25 at 10 07 43 AM" src="https://github.com/user-attachments/assets/5b47c897-ce1b-47b9-ae70-4d023717eaa1" />
 
-## User profile where the user can edit their personal info, add a personal statement bio, and keep track of favorite coaches, schools, and emails sent out
+## User profile where the user can edit their personal info, add a personal statement bio, and keep track of favorite coaches, schools, and emails sent with replies displayed for email history
 <img width="1440" height="788" alt="Screenshot 2025-11-25 at 10 45 01 AM" src="https://github.com/user-attachments/assets/499456bd-2a2b-4927-840c-f6492896a772" />
-<img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/fa0fcdbc-91c7-4e4f-975d-68a8d3783835" />
+<img width="1434" height="734" alt="Screenshot 2026-02-06 at 10 55 27 PM" src="https://github.com/user-attachments/assets/df5862be-cdb5-483e-aaff-56c3b2ac6678" />
 
 ## User profile also allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
 <img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/779c9414-95e4-453a-8f01-93a390484314" />
