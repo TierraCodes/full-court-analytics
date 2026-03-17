@@ -36,10 +36,17 @@
 ### Tables can send an email to multiple coaches at the same time, as well as assigning custom tags to multiple coaches
 <img width="1917" height="918" alt="image" src="https://github.com/user-attachments/assets/f5c052ad-d1a3-4126-876d-500b41415d70" />
 
-## User profile where the user can edit their personal info, add a personal statement bio, and keep track of favorite coaches, schools, and emails sent with replies displayed for email history
-<img width="1440" height="788" alt="Screenshot 2025-11-25 at 10 45 01 AM" src="https://github.com/user-attachments/assets/499456bd-2a2b-4927-840c-f6492896a772" />
-<img width="1234" height="582" alt="Screenshot 2026-02-08 at 11 56 25 PM" src="https://github.com/user-attachments/assets/4c0c395e-5212-4237-b8d6-66264431f846" />
+## User profile where the user can edit their personal info, add a personal statement bio, and keep track of favorite coaches, schools, and emails sent with replies displayed for email history with collapse button for longer threads
+<img width="2864" height="1552" alt="image" src="https://github.com/user-attachments/assets/104302cd-f88a-4838-a173-d270a4784efb" />
 
+### Email history displays the most recent email first and initial message at the end of "Earlier in thread" along with bolded names associated with email account for the user. A collapse button is available in longer email threads for cleaner formatting, allowing the user to expand further conversations or not.
+<img width="2858" height="1552" alt="image" src="https://github.com/user-attachments/assets/d1026757-2f9f-426c-ac61-702bc062ea06" />
+
+### To see content of emails in the middle of thread, click on button to show all email messages. The "Show" and "Hide" with the count of earlier messages on button indicate if the emails are collapsed or not
+<img width="2854" height="1556" alt="image" src="https://github.com/user-attachments/assets/413ff5c9-ecf5-4741-af43-d531f2c1e525" />
+
+### Collapse button is only available in thread if there are more than 3 emails in "Earlier in threads" section
+<img width="2850" height="1550" alt="image" src="https://github.com/user-attachments/assets/fb7812bc-142c-45ce-b00a-242b7c741d53" />
 
 ## User profile also allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
 <img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/779c9414-95e4-453a-8f01-93a390484314" />
