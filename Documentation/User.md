@@ -24,12 +24,16 @@
 ## Now you have access to our site and its email features, if you gave permission. The dashboard lists all available colleges, with custom profile pages for the schools and coaches within them.
 
 ## Schools are displayed in a table with filter and search functionalities.
-### User can select how many rows are displayed at a time
-<img width="1000" height="574" alt="rowSelection2" src="https://github.com/user-attachments/assets/82495c60-4d66-4f2f-bb4a-fab1875f34d3" />
 
-### User can select multiple coaches/schools and send mass emails and mass tag schools or coaches
 ### Tags applied to schools/coaches can appear as badges underneath their name
 <img width="1916" height="916" alt="image" src="https://github.com/user-attachments/assets/21b1981f-030b-4909-b156-75c0b4ed8cf4" />
+
+### User can select multiple coaches/schools and send mass emails and mass tag schools or coaches
+<img width="1602" height="624" alt="bulkActions" src="https://github.com/user-attachments/assets/2c5ecaf3-aafb-407c-b5cf-ff686810092d" />
+<img width="476" height="430" alt="bulkTagging" src="https://github.com/user-attachments/assets/8b4c1d0e-f861-4865-9526-c0fee16f6118" />
+
+### User can select how many rows are displayed at a time
+<img width="1000" height="574" alt="rowSelection2" src="https://github.com/user-attachments/assets/82495c60-4d66-4f2f-bb4a-fab1875f34d3" />
 
 ## Coach profiles are available with social links and other general information.
 ### User can add custom notes to each coach, as well as view their email history with that coach if they accepted our Gmail agreement
