@@ -66,4 +66,9 @@
 <img width="1439" height="647" alt="Screenshot 2026-03-17 at 10 28 44 PM" src="https://github.com/user-attachments/assets/933b10d5-26a2-4435-a724-0784233a239e" />
 <img width="1440" height="605" alt="Screenshot 2026-03-17 at 10 31 38 PM" src="https://github.com/user-attachments/assets/3cfa5bf1-8804-4633-9776-5fb59d415954" />
 
+- Within email management page, the user can see all templates created along with a preview of the template's details (Template Name & Template Subject)
+- This is a good reminder to the user if they can't remember the templates they already created, they can see them all on one page in this format
+<img width="2854" height="1458" alt="image" src="https://github.com/user-attachments/assets/5391430b-de33-4426-bdb0-b76288dfa270" />
+
+
 
