@@ -48,12 +48,22 @@
 ### Collapse button is only available in thread if there are more than 3 emails in "Earlier in threads" section
 <img width="2850" height="1550" alt="image" src="https://github.com/user-attachments/assets/fb7812bc-142c-45ce-b00a-242b7c741d53" />
 
-## User profile also allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
+## User profile
+- Allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
 <img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/779c9414-95e4-453a-8f01-93a390484314" />
 <img width="1910" height="936" alt="image" src="https://github.com/user-attachments/assets/e7995832-e1b8-4371-ada0-273875f8cb21" />
 
-## User profile also allows users to view their saved drafts and which coaches those drafts belong too. You can create, save, and/or use a saved draft while composing an email to a coach in the Coach Profile.
+- Allows users to view their saved drafts and which coaches those drafts belong too.
+- You can create, save, and/or use a saved draft while composing an email to a coach in the Coach Profile.
 <img width="1440" height="588" alt="Screenshot 2026-02-03 at 10 20 15 PM" src="https://github.com/user-attachments/assets/b8f7efb1-c9e3-4f8b-b1ca-6af056349799" />
 <img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/f610a92e-8e98-4800-bab1-cd71feaa6745" />
 <img width="702" height="375" alt="Screenshot 2026-02-03 at 10 15 51 PM" src="https://github.com/user-attachments/assets/a8b2118c-7177-4b2a-9521-ca606883dd27" />
+
+## Email Management Page
+- The user can now view their emails in full within this page.
+- They can view their sent messages, drafts they've saved, and they can compose emails to coaches.
+- This is extremely useful for organizing emails and for users to have efficient outreach methods to coaches.
+<img width="1439" height="647" alt="Screenshot 2026-03-17 at 10 28 44 PM" src="https://github.com/user-attachments/assets/933b10d5-26a2-4435-a724-0784233a239e" />
+<img width="1440" height="605" alt="Screenshot 2026-03-17 at 10 31 38 PM" src="https://github.com/user-attachments/assets/3cfa5bf1-8804-4633-9776-5fb59d415954" />
+
 
