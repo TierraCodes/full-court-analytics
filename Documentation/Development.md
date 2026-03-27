@@ -55,7 +55,13 @@
     - click the localhost link and it will route you to the webpage in your browser
 
 ## Testing:
-### To run tests on console: run test -- --coverage
+### To run acceptance test, specifically e2e email tests:
+Run these commands each in separate terminals:
+- docker run -d --name mailhog -p 1025:1025 -p 8025:8025 mailhog/mailhog
+- >> $env:MAIL_PROVIDER="mailhog" $env:SMTP_HOST="127.0.0.1" $env:SMTP_PORT="1025" $env:MAIL_FROM="e2e@fullcourt.local" npm run dev
+- npx cypress run
+
+### To run unit tests on console: run test -- --coverage
 1. login with test credentials:
     - email - dev@demo.com
     - password - Password12!
@@ -64,5 +70,6 @@
     - <img width="734" height="998" alt="image" src="https://github.com/user-attachments/assets/13cccef3-af16-44bf-8eff-19ac14b722bb" />
     - <img width="558" height="750" alt="image" src="https://github.com/user-attachments/assets/c5ca41bf-eed9-4f20-b1a1-a78bbe8349a9" />
     - <img width="2872" height="1548" alt="image" src="https://github.com/user-attachments/assets/65857748-4331-4162-9328-bf847254fb7a" />
+    
 
 
