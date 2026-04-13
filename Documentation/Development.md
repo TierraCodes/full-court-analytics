@@ -57,8 +57,9 @@
 ## Testing:
 ### To run acceptance test, specifically e2e email tests:
 Run these commands each in separate terminals:
+Open Docker Desktop
 - docker run -d --name mailhog -p 1025:1025 -p 8025:8025 mailhog/mailhog
-- >> $env:MAIL_PROVIDER="mailhog" $env:SMTP_HOST="127.0.0.1" $env:SMTP_PORT="1025" $env:MAIL_FROM="e2e@fullcourt.local" npm run dev
+- npm run dev:e2e
 - npx cypress run
 
 ### To run unit tests on console: run test -- --coverage
