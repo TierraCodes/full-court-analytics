@@ -58,9 +58,17 @@
 ### To run acceptance test, specifically e2e email tests:
 Run these commands each in separate terminals:
 Open Docker Desktop
-- docker run -d --name mailhog -p 1025:1025 -p 8025:8025 mailhog/mailhog
-- npm run dev:e2e
-- npx cypress run
+
+`npm run mailhog`
+
+#### 1. Start Firebase emulators (auto-imports seeded data from emulator-data/)
+`npm run emulators`
+
+#### 2. Start the app pointed at the emulators
+`npm run dev:e2e`
+
+#### 3. Run tests
+`npm run cy:run:e2e` # Cypress
 
 ### To run unit tests on console: run test -- --coverage
 1. login with test credentials:
