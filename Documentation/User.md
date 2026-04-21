@@ -23,6 +23,9 @@
 
 ## Now you have access to our site and its email features, if you gave permission. The dashboard lists all available colleges, with custom profile pages for the schools and coaches within them.
 
+## If you denied or did not approve access to your gmail, attempting to utilize any feature that requires access will prompt you to authenticate.
+<img width="2557" height="1265" alt="{D243CB7A-D735-465B-9E49-E6B4F52EDC14}" src="https://github.com/user-attachments/assets/5f9d140d-9871-4ea3-8f4c-3e92e0d24b9f" />
+
 ## Schools are displayed in a table with filter and search functionalities.
 
 ### Tags applied to schools/coaches can appear as badges underneath their name
