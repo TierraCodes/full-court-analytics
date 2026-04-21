@@ -6,6 +6,9 @@
 ## Fill out the form, make sure to fill out every box. You must only sign up with a valid Gmail email that is active, and you have access to
 <img width="1247" height="757" alt="Screenshot 2026-02-06 at 10 45 04 PM" src="https://github.com/user-attachments/assets/200e67d1-3c15-4a4a-b289-e51b56a5ae6f" />
 
+## Password strength bar provided, indicating real-time strength of created password
+<img width="2074" height="1524" alt="image" src="https://github.com/user-attachments/assets/6721e6f9-d655-4dbb-b4e8-c1e105407879" />
+
 ## Redirected to Google OAuth page, where you select a Gmail account to continue from, for features to send and view email history that is only accessible upon your consent
 ### You must select the associated Google account you signed up with 
 <img width="1217" height="660" alt="Screenshot 2026-02-06 at 10 19 32 PM" src="https://github.com/user-attachments/assets/130ef082-ca12-4018-99cf-0b2967adbf27" />
@@ -58,6 +61,9 @@
 ### Collapse button is only available in thread if there are more than 3 emails in "Earlier in threads" section
 <img width="2850" height="1550" alt="image" src="https://github.com/user-attachments/assets/fb7812bc-142c-45ce-b00a-242b7c741d53" />
 
+### To reply to most recent email in a specific thread, click 'Reply on Email Management Page' to be redirected to email management page from email history 
+<img width="2866" height="1550" alt="image" src="https://github.com/user-attachments/assets/1deb54af-2b26-4941-bc3b-b92251ad76fa" />
+
 ## User profile
 - Allows users to manage their own email templates, where you can prewrite your own emails that will auto-populate coach names and school names for easy email sending.
 <img width="1903" height="937" alt="image" src="https://github.com/user-attachments/assets/779c9414-95e4-453a-8f01-93a390484314" />
@@ -73,6 +79,8 @@
 - The user can now view their emails in full within this page.
 - They can view their sent messages, drafts they've saved, and they can compose emails to coaches.
 - This is extremely useful for organizing emails and for users to have efficient outreach methods to coaches.
+- The user can now reply to the most recent email within a specific thread, either directly via 'Reply' button on Email Management page OR by being directed to Email Management Page from Email History. This in-app reply email will be updated in both in-app email history thread and Gmail thread.
+<img width="2872" height="1540" alt="image" src="https://github.com/user-attachments/assets/47840910-6ac8-4b4a-b278-07b223159f36" />
 <img width="1439" height="647" alt="Screenshot 2026-03-17 at 10 28 44 PM" src="https://github.com/user-attachments/assets/933b10d5-26a2-4435-a724-0784233a239e" />
 <img width="1440" height="605" alt="Screenshot 2026-03-17 at 10 31 38 PM" src="https://github.com/user-attachments/assets/3cfa5bf1-8804-4633-9776-5fb59d415954" />
 
