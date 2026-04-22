@@ -89,4 +89,10 @@
 <img width="2854" height="1458" alt="image" src="https://github.com/user-attachments/assets/5391430b-de33-4426-bdb0-b76288dfa270" />
 
 
+## Email Markdown
+- The user can now add markdown styles to their emails and formatting.
+- They can view the markdown emails in the email management page and the replies thread in their user profile.
+<img width="689" height="402" alt="Screenshot 2026-04-21 at 10 28 17 PM" src="https://github.com/user-attachments/assets/8442cba6-ab2f-4983-ab4b-9c5f4c272f33" />
+<img width="1175" height="333" alt="Screenshot 2026-04-21 at 10 28 41 PM" src="https://github.com/user-attachments/assets/a7438cc6-e86e-477a-b6c4-079e9d07bb1c" />
+
 
