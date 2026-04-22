@@ -95,4 +95,8 @@
 <img width="689" height="402" alt="Screenshot 2026-04-21 at 10 28 17 PM" src="https://github.com/user-attachments/assets/8442cba6-ab2f-4983-ab4b-9c5f4c272f33" />
 <img width="1175" height="333" alt="Screenshot 2026-04-21 at 10 28 41 PM" src="https://github.com/user-attachments/assets/a7438cc6-e86e-477a-b6c4-079e9d07bb1c" />
 
+## Add Social Media Links
+- The user can now edit the social media links connected to their account similar to how they could edit their stats
+<img width="1203" height="360" alt="Screenshot 2026-04-21 at 10 58 58 PM" src="https://github.com/user-attachments/assets/76532764-0d8a-4870-a8a3-678f22ae105e" />
+<img width="284" height="136" alt="Screenshot 2026-04-21 at 10 59 16 PM" src="https://github.com/user-attachments/assets/3c54070c-d095-4fe0-b24a-c1be79eed5ff" />
 
